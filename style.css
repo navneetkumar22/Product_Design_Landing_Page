@@ -355,6 +355,12 @@ footer {
     .nav-item {
         list-style: none;
         margin-right: 3rem;
+        cursor: pointer;
+        font-weight: 600;
+    }
+
+    .nav-item:hover{
+        color: grey;
     }
 
     /* Section Hero */
