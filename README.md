@@ -24,12 +24,12 @@ This Product Design Landing Page is created using HTML and CSS.
 <br>
 
 ## **Deployed Link :**
-<a href="https://navneet-project15.netlify.app/" target="_blank" role="button"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://navneet-project15.netlify.app/"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 <br>
 
 ## **My Other Projects :**
-<a href="https://navneetkumar.netlify.app" target="_blank" role="button"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+<a href="https://navneetkumar.netlify.app"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
 
 ### **Source Credits :**
 [INeuron](https://ineuron.ai)
